@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface GitTestViewController : UIViewController
+- (IBAction)send:(id)sender;
 
 @end
